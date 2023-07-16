@@ -1,0 +1,74 @@
+/*
+.footer-1 {
+    padding: 24px 40px;
+    display: flex;
+
+}
+
+.footer-container {
+    flex: .9;
+    display: flex;
+
+
+
+
+    section {
+        margin-left: 16px;
+        flex: 1;
+        width: 190;
+
+        h2 {
+            font-size: 19px;
+            font-weight: 400;
+            margin-bottom: 24px;
+        }
+
+        ul {
+            font-size: 16px;
+            font-weight: 100;
+            line-height: 3;
+
+            li a {
+                text-decoration: none;
+            }
+        }
+    }
+
+    section:first-child {
+        margin-left: 0;
+    }
+}
+*/
+
+.footer-container section ul {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.footer-container section.expanded ul {
+    max-height: 1000px; /* Adjust the value to your desired height */
+    animation: dropItems 0.5s ease-in-out;
+}
+
+@keyframes dropItems {
+    0% {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.my-list {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .5s; /* Add a transition for smooth animation */
+}
+
+.my-list.expanded {
+    max-height: 200px; /* Set the max height to show the list (adjust the value as needed) */
+}

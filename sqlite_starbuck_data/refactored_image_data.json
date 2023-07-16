@@ -1,0 +1,1397 @@
+[
+    {
+        "type_id": 0,
+        "item_name": "VIA\u00ae Decaf Italian Roast",
+        "img_path": "./images/at_home_coffee/via_instant/VIA\u00ae Decaf Italian Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "VIA\u00ae Sweetened Iced Coffee",
+        "img_path": "./images/at_home_coffee/via_instant/VIA\u00ae Sweetened Iced Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks VIA\u00ae Instant Pike Place\u00ae Roast",
+        "img_path": "./images/at_home_coffee/via_instant/Starbucks VIA\u00ae Instant Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "VIA\u00ae Italian Roast",
+        "img_path": "./images/at_home_coffee/via_instant/VIA\u00ae Italian Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "VIA\u00ae Veranda Blend\u2122",
+        "img_path": "./images/at_home_coffee/via_instant/VIA\u00ae Veranda Blend\u2122.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks\u00ae Green Apron Blend\u2122",
+        "img_path": "./images/at_home_coffee/whole_bean/Starbucks\u00ae Green Apron Blend\u2122.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks\u00ae Blonde Espresso Roast",
+        "img_path": "./images/at_home_coffee/whole_bean/Starbucks\u00ae Blonde Espresso Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pike Place\u00ae Roast",
+        "img_path": "./images/at_home_coffee/whole_bean/Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Odyssey Blend\u2122 2023",
+        "img_path": "./images/at_home_coffee/whole_bean/Starbucks Odyssey Blend\u2122 2023.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Guatemala Antigua Whole Bean Coffee",
+        "img_path": "./images/at_home_coffee/whole_bean/Guatemala Antigua Whole Bean Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Papua New Guinea Moanti Whole Bean Coffee",
+        "img_path": "./images/at_home_coffee/whole_bean/Starbucks Reserve\u00ae Papua New Guinea Moanti Whole Bean Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Organic Yukon Blend\u00ae Whole Bean Coffee",
+        "img_path": "./images/at_home_coffee/whole_bean/Organic Yukon Blend\u00ae Whole Bean Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Decaf Sumatra",
+        "img_path": "./images/at_home_coffee/whole_bean/Decaf Sumatra.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Rwanda Sholi",
+        "img_path": "./images/at_home_coffee/whole_bean/Starbucks Reserve\u00ae Rwanda Sholi.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Italian Roast",
+        "img_path": "./images/at_home_coffee/whole_bean/Italian Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Komodo Dragon Blend\u00ae",
+        "img_path": "./images/at_home_coffee/whole_bean/Komodo Dragon Blend\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Espresso Roast",
+        "img_path": "./images/at_home_coffee/whole_bean/Espresso Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Siren\u2019s Blend\u2122",
+        "img_path": "./images/at_home_coffee/whole_bean/Starbucks Siren\u2019s Blend\u2122.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Veranda Blend\u00ae Whole Bean Coffee",
+        "img_path": "./images/at_home_coffee/whole_bean/Veranda Blend\u00ae Whole Bean Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Verona\u00ae",
+        "img_path": "./images/at_home_coffee/whole_bean/Caff\u00e8 Verona\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Sumatra",
+        "img_path": "./images/at_home_coffee/whole_bean/Sumatra.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "KIND\u00ae Blueberry Vanilla & Cashew Bar",
+        "img_path": "./images/food/snacks_sweets/KIND\u00ae Blueberry Vanilla & Cashew Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "That's It\u00ae - Apple + Blueberry Bar",
+        "img_path": "./images/food/snacks_sweets/That's It\u00ae - Apple + Blueberry Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Country Archer - Hickory Smoked Turkey Jerkey",
+        "img_path": "./images/food/snacks_sweets/Country Archer - Hickory Smoked Turkey Jerkey.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Dark Chocolate Covered Espresso Beans",
+        "img_path": "./images/food/snacks_sweets/Dark Chocolate Covered Espresso Beans.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Perfect Bar\u00ae - Dark Chocolate Chip Peanut Butter",
+        "img_path": "./images/food/snacks_sweets/Perfect Bar\u00ae - Dark Chocolate Chip Peanut Butter.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Vanilla Biscotti with Almonds",
+        "img_path": "./images/food/snacks_sweets/Vanilla Biscotti with Almonds.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Avocado Spread",
+        "img_path": "./images/food/snacks_sweets/Avocado Spread.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "This Bar Saves Lives\u2122 \u2013 Dark Chocolate Cherry & Sea Salt Bar",
+        "img_path": "./images/food/snacks_sweets/This Bar Saves Lives\u2122 \u2013 Dark Chocolate Cherry & Sea Salt Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Spearmint Gum",
+        "img_path": "./images/food/snacks_sweets/Spearmint Gum.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Salt & Vinegar Kettle Potato Chips",
+        "img_path": "./images/food/snacks_sweets/Salt & Vinegar Kettle Potato Chips.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "String Cheese",
+        "img_path": "./images/food/snacks_sweets/String Cheese.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Perfectly Salted Chips",
+        "img_path": "./images/food/snacks_sweets/Perfectly Salted Chips.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Peter Rabbit\u2122 Organics Strawberry Banana",
+        "img_path": "./images/food/snacks_sweets/Peter Rabbit\u2122 Organics Strawberry Banana.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Madeleines",
+        "img_path": "./images/food/snacks_sweets/Madeleines.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Butter Popcorn",
+        "img_path": "./images/food/snacks_sweets/Starbucks Butter Popcorn.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Rip van Wafels \u2013 Honey & Oats",
+        "img_path": "./images/food/snacks_sweets/Rip van Wafels \u2013 Honey & Oats.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "KIND Peanut Butter Dark Chocolate Bar",
+        "img_path": "./images/food/snacks_sweets/KIND Peanut Butter Dark Chocolate Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "This Bar Saves Lives\u2122 Madagascar Vanilla Almond & Honey Bar",
+        "img_path": "./images/food/snacks_sweets/This Bar Saves Lives\u2122 Madagascar Vanilla Almond & Honey Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Salted Almond Chocolate Bites",
+        "img_path": "./images/food/snacks_sweets/Salted Almond Chocolate Bites.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Dark Chocolate Peanut Butter Cups",
+        "img_path": "./images/food/snacks_sweets/Dark Chocolate Peanut Butter Cups.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "That's It\u00ae - Apple + Mango Bar",
+        "img_path": "./images/food/snacks_sweets/That's It\u00ae - Apple + Mango Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "This Bar Saves Lives\u2122 - Dark Chocolate Peanut Butter",
+        "img_path": "./images/food/snacks_sweets/This Bar Saves Lives\u2122 - Dark Chocolate Peanut Butter.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Perfect Bar\u00ae Peanut Butter",
+        "img_path": "./images/food/snacks_sweets/Perfect Bar\u00ae Peanut Butter.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Shortbread Cookies",
+        "img_path": "./images/food/snacks_sweets/Shortbread Cookies.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Squirrel Brand\u00ae Fruit & Nut",
+        "img_path": "./images/food/snacks_sweets/Squirrel Brand\u00ae Fruit & Nut.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Cake Pop",
+        "img_path": "./images/food/bakery/Chocolate Cake Pop.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Croissant",
+        "img_path": "./images/food/bakery/Chocolate Croissant.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Plain Bagel",
+        "img_path": "./images/food/bakery/Plain Bagel.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Chip Cookie",
+        "img_path": "./images/food/bakery/Chocolate Chip Cookie.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Blueberry Muffin",
+        "img_path": "./images/food/bakery/Blueberry Muffin.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Bumblebee Cake Pop",
+        "img_path": "./images/food/bakery/Bumblebee Cake Pop.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Everything Bagel",
+        "img_path": "./images/food/bakery/Everything Bagel.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pumpkin & Pepita Loaf",
+        "img_path": "./images/food/bakery/Pumpkin & Pepita Loaf.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Butter Croissant",
+        "img_path": "./images/food/bakery/Butter Croissant.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Lemon Loaf",
+        "img_path": "./images/food/bakery/Iced Lemon Loaf.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Avocado Spread",
+        "img_path": "./images/food/bakery/Avocado Spread.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Petite Vanilla Bean Scone",
+        "img_path": "./images/food/bakery/Petite Vanilla Bean Scone.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Birthday Cake Pop",
+        "img_path": "./images/food/bakery/Birthday Cake Pop.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Glazed Doughnut",
+        "img_path": "./images/food/bakery/Glazed Doughnut.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Ham & Swiss Croissant",
+        "img_path": "./images/food/bakery/Ham & Swiss Croissant.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Banana Walnut & Pecan Loaf",
+        "img_path": "./images/food/bakery/Banana Walnut & Pecan Loaf.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Marshmallow Dream Bar",
+        "img_path": "./images/food/bakery/Marshmallow Dream Bar.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cookies & Cream Cake Pop",
+        "img_path": "./images/food/bakery/Cookies & Cream Cake Pop.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Blueberry Scone",
+        "img_path": "./images/food/bakery/Blueberry Scone.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cinnamon Coffee Cake",
+        "img_path": "./images/food/bakery/Cinnamon Coffee Cake.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cheese Danish",
+        "img_path": "./images/food/bakery/Cheese Danish.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Double Chocolate Brownie",
+        "img_path": "./images/food/bakery/Double Chocolate Brownie.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cheddar & Uncured Salami Protein Box",
+        "img_path": "./images/food/lunch/Cheddar & Uncured Salami Protein Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Eggs & Cheddar Protein Box",
+        "img_path": "./images/food/lunch/Eggs & Cheddar Protein Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "PB&J Protein Box",
+        "img_path": "./images/food/lunch/PB&J Protein Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Avocado Spread",
+        "img_path": "./images/food/lunch/Avocado Spread.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Tomato & Mozzarella on Focaccia",
+        "img_path": "./images/food/lunch/Tomato & Mozzarella on Focaccia.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Ham & Swiss on Baguette",
+        "img_path": "./images/food/lunch/Ham & Swiss on Baguette.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cheese Trio Protein Box",
+        "img_path": "./images/food/lunch/Cheese Trio Protein Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Eggs & Gouda Protein Box",
+        "img_path": "./images/food/lunch/Eggs & Gouda Protein Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Turkey, Provolone & Pesto on Ciabatta",
+        "img_path": "./images/food/lunch/Turkey, Provolone & Pesto on Ciabatta.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cheese & Fruit Protein Box",
+        "img_path": "./images/food/lunch/Cheese & Fruit Protein Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Crispy Grilled Cheese on Sourdough",
+        "img_path": "./images/food/lunch/Crispy Grilled Cheese on Sourdough.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Turkey Bacon, Cheddar & Egg White Sandwich",
+        "img_path": "./images/food/hot_breakfast/Turkey Bacon, Cheddar & Egg White Sandwich.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Egg White & Roasted Red Pepper Egg Bites",
+        "img_path": "./images/food/hot_breakfast/Egg White & Roasted Red Pepper Egg Bites.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chicken, Maple Butter & Egg Sandwich",
+        "img_path": "./images/food/hot_breakfast/Chicken, Maple Butter & Egg Sandwich.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Kale & Mushroom Egg Bites",
+        "img_path": "./images/food/hot_breakfast/Kale & Mushroom Egg Bites.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Bacon, Sausage & Egg Wrap",
+        "img_path": "./images/food/hot_breakfast/Bacon, Sausage & Egg Wrap.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Avocado Spread",
+        "img_path": "./images/food/hot_breakfast/Avocado Spread.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Sausage, Cheddar & Egg Sandwich",
+        "img_path": "./images/food/hot_breakfast/Sausage, Cheddar & Egg Sandwich.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Bacon, Gouda & Egg Sandwich",
+        "img_path": "./images/food/hot_breakfast/Bacon, Gouda & Egg Sandwich.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Double-Smoked Bacon, Cheddar & Egg Sandwich",
+        "img_path": "./images/food/hot_breakfast/Double-Smoked Bacon, Cheddar & Egg Sandwich.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Impossible\u2122 Breakfast Sandwich",
+        "img_path": "./images/food/hot_breakfast/Impossible\u2122 Breakfast Sandwich.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Bacon & Gruy\u00e8re Egg Bites",
+        "img_path": "./images/food/hot_breakfast/Bacon & Gruy\u00e8re Egg Bites.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Spinach, Feta & Egg White Wrap",
+        "img_path": "./images/food/hot_breakfast/Spinach, Feta & Egg White Wrap.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Berry Trio Parfait",
+        "img_path": "./images/food/oatmeal_yogurt/Berry Trio Parfait.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Rolled & Steel-Cut Oatmeal",
+        "img_path": "./images/food/oatmeal_yogurt/Rolled & Steel-Cut Oatmeal.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Strawberry Overnight Grains",
+        "img_path": "./images/food/oatmeal_yogurt/Strawberry Overnight Grains.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Hot Teas",
+        "img_path": "./images/menu/Hot Teas.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cold Cups",
+        "img_path": "./images/menu/Cold Cups.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cold Coffees",
+        "img_path": "./images/menu/Cold Coffees.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Other",
+        "img_path": "./images/menu/Other.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Hot Drinks",
+        "img_path": "./images/menu/Hot Drinks.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Oatmeal & Yogurt",
+        "img_path": "./images/menu/Oatmeal & Yogurt.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Hot Coffees",
+        "img_path": "./images/menu/Hot Coffees.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Snacks & Sweets",
+        "img_path": "./images/menu/Snacks & Sweets.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Mugs",
+        "img_path": "./images/menu/Mugs.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Oleato\u2122",
+        "img_path": "./images/menu/Oleato\u2122.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cold Drinks",
+        "img_path": "./images/menu/Cold Drinks.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "VIA\u00ae Instant",
+        "img_path": "./images/menu/VIA\u00ae Instant.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Frappuccino\u00ae Blended Beverages",
+        "img_path": "./images/menu/Frappuccino\u00ae Blended Beverages.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Bakery",
+        "img_path": "./images/menu/Bakery.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Tumblers",
+        "img_path": "./images/menu/Tumblers.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Whole Bean",
+        "img_path": "./images/menu/Whole Bean.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Lunch",
+        "img_path": "./images/menu/Lunch.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Hot Breakfast",
+        "img_path": "./images/menu/Hot Breakfast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Teas",
+        "img_path": "./images/menu/Iced Teas.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cinnamon Dolce Latte",
+        "img_path": "./images/drinks/hot_coffees/Cinnamon Dolce Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caramel Macchiato",
+        "img_path": "./images/drinks/hot_coffees/Caramel Macchiato.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Misto",
+        "img_path": "./images/drinks/hot_coffees/Caff\u00e8 Misto.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Featured Starbucks\u00ae Dark Roast Coffee",
+        "img_path": "./images/drinks/hot_coffees/Featured Starbucks\u00ae Dark Roast Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Coffee Traveler - Decaf Pike Place\u00ae Roast",
+        "img_path": "./images/drinks/hot_coffees/Coffee Traveler - Decaf Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pike Place\u00ae Roast",
+        "img_path": "./images/drinks/hot_coffees/Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Featured Medium Roast - Pike Place\u00ae Roast",
+        "img_path": "./images/drinks/hot_coffees/Featured Medium Roast - Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Decaf Pike Place\u00ae Roast",
+        "img_path": "./images/drinks/hot_coffees/Decaf Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Clover\u00ae Starbucks Reserve\u00ae Costa Rica Naranjo",
+        "img_path": "./images/drinks/hot_coffees/Clover\u00ae Starbucks Reserve\u00ae Costa Rica Naranjo.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Dark Chocolate Mocha",
+        "img_path": "./images/drinks/hot_coffees/Starbucks Reserve\u00ae Dark Chocolate Mocha.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Honey Almondmilk Flat White",
+        "img_path": "./images/drinks/hot_coffees/Honey Almondmilk Flat White.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks\u00ae Blonde Vanilla Latte",
+        "img_path": "./images/drinks/hot_coffees/Starbucks\u00ae Blonde Vanilla Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Veranda Blend\u00ae",
+        "img_path": "./images/drinks/hot_coffees/Veranda Blend\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Clover\u00ae Starbucks Reserve\u00ae Ecuador Loja",
+        "img_path": "./images/drinks/hot_coffees/Clover\u00ae Starbucks Reserve\u00ae Ecuador Loja.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Espresso Con Panna",
+        "img_path": "./images/drinks/hot_coffees/Espresso Con Panna.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Coffee Traveler - Dark Roast",
+        "img_path": "./images/drinks/hot_coffees/Coffee Traveler - Dark Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Clover\u00ae Starbucks Reserve\u00ae Papua New Guinea Moanti",
+        "img_path": "./images/drinks/hot_coffees/Clover\u00ae Starbucks Reserve\u00ae Papua New Guinea Moanti.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Americano",
+        "img_path": "./images/drinks/hot_coffees/Caff\u00e8 Americano.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Espresso",
+        "img_path": "./images/drinks/hot_coffees/Espresso.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Coffee Traveler - Pike Place\u00ae Roast",
+        "img_path": "./images/drinks/hot_coffees/Coffee Traveler - Pike Place\u00ae Roast.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Hazelnut Bianco Latte",
+        "img_path": "./images/drinks/hot_coffees/Starbucks Reserve\u00ae Hazelnut Bianco Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Green Apron Blend",
+        "img_path": "./images/drinks/hot_coffees/Green Apron Blend.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Clover\u00ae Starbucks Reserve\u00ae Rwanda Sholi",
+        "img_path": "./images/drinks/hot_coffees/Clover\u00ae Starbucks Reserve\u00ae Rwanda Sholi.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Oleato\u2122 Caff\u00e9 Latte with Oatmilk",
+        "img_path": "./images/drinks/hot_coffees/Oleato\u2122 Caff\u00e9 Latte with Oatmilk.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Mocha",
+        "img_path": "./images/drinks/hot_coffees/Caff\u00e8 Mocha.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Coffee Traveler - Veranda Blend\u00ae",
+        "img_path": "./images/drinks/hot_coffees/Coffee Traveler - Veranda Blend\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Verona\u00ae",
+        "img_path": "./images/drinks/hot_coffees/Caff\u00e8 Verona\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Flat White",
+        "img_path": "./images/drinks/hot_coffees/Flat White.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "White Chocolate Mocha",
+        "img_path": "./images/drinks/hot_coffees/White Chocolate Mocha.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Espresso Macchiato",
+        "img_path": "./images/drinks/hot_coffees/Espresso Macchiato.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Green Apron Blend\u2122",
+        "img_path": "./images/drinks/hot_coffees/Green Apron Blend\u2122.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Latte",
+        "img_path": "./images/drinks/hot_coffees/Starbucks Reserve\u00ae Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Latte",
+        "img_path": "./images/drinks/hot_coffees/Caff\u00e8 Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cappuccino",
+        "img_path": "./images/drinks/hot_coffees/Cappuccino.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Earl Grey Tea",
+        "img_path": "./images/drinks/hot_teas/Earl Grey Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Peach Tranquility\u00ae",
+        "img_path": "./images/drinks/hot_teas/Peach Tranquility\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Teavana\u00ae London Fog Tea Latte",
+        "img_path": "./images/drinks/hot_teas/Teavana\u00ae London Fog Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Royal English Breakfast Tea",
+        "img_path": "./images/drinks/hot_teas/Royal English Breakfast Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chai Tea",
+        "img_path": "./images/drinks/hot_teas/Chai Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Royal English Breakfast Tea Latte",
+        "img_path": "./images/drinks/hot_teas/Royal English Breakfast Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Jade Citrus Mint\u00ae Brewed Tea",
+        "img_path": "./images/drinks/hot_teas/Jade Citrus Mint\u00ae Brewed Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Honey Citrus Mint Tea",
+        "img_path": "./images/drinks/hot_teas/Honey Citrus Mint Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Emperor\u2019s Clouds & Mist\u00ae",
+        "img_path": "./images/drinks/hot_teas/Emperor\u2019s Clouds & Mist\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Matcha Tea Latte",
+        "img_path": "./images/drinks/hot_teas/Matcha Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chai Tea Latte",
+        "img_path": "./images/drinks/hot_teas/Chai Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Mint Majesty\u00ae",
+        "img_path": "./images/drinks/hot_teas/Mint Majesty\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Double Chocolaty Chip Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Double Chocolaty Chip Cr\u00e8me Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caramel Ribbon Crunch Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Caramel Ribbon Crunch Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caramel Ribbon Crunch Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Caramel Ribbon Crunch Cr\u00e8me Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "White Chocolate Mocha Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/White Chocolate Mocha Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caff\u00e8 Vanilla Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Caff\u00e8 Vanilla Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Java Mint Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Chocolate Java Mint Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Coffee Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Coffee Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Mocha Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Mocha Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Espresso Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Espresso Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Mocha Cookie Crumble Frappuccino\u00ae",
+        "img_path": "./images/drinks/frappucino/Mocha Cookie Crumble Frappuccino\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Cookie Crumble Cr\u00e8me Frappuccino\u00ae",
+        "img_path": "./images/drinks/frappucino/Chocolate Cookie Crumble Cr\u00e8me Frappuccino\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chai Cr\u00e8me Frappuccino\u00ae",
+        "img_path": "./images/drinks/frappucino/Chai Cr\u00e8me Frappuccino\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caramel Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Caramel Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Matcha Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Matcha Cr\u00e8me Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Mint Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Chocolate Mint Cr\u00e8me Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Strawberry Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Strawberry Cr\u00e8me Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "White Chocolate Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/White Chocolate Cr\u00e8me Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Vanilla Bean Cr\u00e8me Frappuccino\u00ae Blended Cr\u00e8me",
+        "img_path": "./images/drinks/frappucino/Vanilla Bean Cr\u00e8me Frappuccino\u00ae Blended Cr\u00e8me.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Java Chip Frappuccino\u00ae Blended Beverage",
+        "img_path": "./images/drinks/frappucino/Java Chip Frappuccino\u00ae Blended Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks\u2122 Baya Energy Raspberry Lime",
+        "img_path": "./images/drinks/cold_drinks/Starbucks\u2122 Baya Energy Raspberry Lime.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Frozen Strawberry A\u00e7a\u00ed Lemonade Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Frozen Strawberry A\u00e7a\u00ed Lemonade Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Hawai'i Volcanic Water",
+        "img_path": "./images/drinks/cold_drinks/Hawai'i Volcanic Water.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Strawberry A\u00e7a\u00ed Lemonade Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Strawberry A\u00e7a\u00ed Lemonade Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Spindrift\u00ae Grapefruit Sparkling Water",
+        "img_path": "./images/drinks/cold_drinks/Spindrift\u00ae Grapefruit Sparkling Water.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks BAYA\u2122 Energy Mango Guava",
+        "img_path": "./images/drinks/cold_drinks/Starbucks BAYA\u2122 Energy Mango Guava.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pink Drink Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Pink Drink Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Mango Dragonfruit Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Mango Dragonfruit Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Ethos\u00ae Bottled Water",
+        "img_path": "./images/drinks/cold_drinks/Ethos\u00ae Bottled Water.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Spindrift\u00ae Raspberry Lime Sparkling Water",
+        "img_path": "./images/drinks/cold_drinks/Spindrift\u00ae Raspberry Lime Sparkling Water.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Blended Strawberry Lemonade",
+        "img_path": "./images/drinks/cold_drinks/Blended Strawberry Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Galvanina Sparkling Water",
+        "img_path": "./images/drinks/cold_drinks/Galvanina Sparkling Water.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Horizon\u00ae Chocolate Organic Milk",
+        "img_path": "./images/drinks/cold_drinks/Horizon\u00ae Chocolate Organic Milk.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Horizon\u00ae Organic Vanilla Milk Box",
+        "img_path": "./images/drinks/cold_drinks/Horizon\u00ae Organic Vanilla Milk Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Frozen Pineapple Passionfruit Lemonade Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Frozen Pineapple Passionfruit Lemonade Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Dragon Drink\u00ae Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Dragon Drink\u00ae Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Evolution Fresh\u00ae Organic Vital Berry",
+        "img_path": "./images/drinks/cold_drinks/Evolution Fresh\u00ae Organic Vital Berry.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Horizon\u00ae Organic Lowfat Milk Box",
+        "img_path": "./images/drinks/cold_drinks/Horizon\u00ae Organic Lowfat Milk Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Strawberry A\u00e7a\u00ed Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Strawberry A\u00e7a\u00ed Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "DASANI Bottled Water",
+        "img_path": "./images/drinks/cold_drinks/DASANI Bottled Water.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Galvanina Sparkling Water - Lime",
+        "img_path": "./images/drinks/cold_drinks/Galvanina Sparkling Water - Lime.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Lemonade",
+        "img_path": "./images/drinks/cold_drinks/Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Evolution Fresh\u00ae Orange",
+        "img_path": "./images/drinks/cold_drinks/Evolution Fresh\u00ae Orange.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Evolution Fresh\u00ae Mighty Watermelon",
+        "img_path": "./images/drinks/cold_drinks/Evolution Fresh\u00ae Mighty Watermelon.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Paradise Drink Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Paradise Drink Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Tree Top Apple Juice Box",
+        "img_path": "./images/drinks/cold_drinks/Tree Top Apple Juice Box.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Evolution Fresh\u00ae Organic Super Fruit Greens",
+        "img_path": "./images/drinks/cold_drinks/Evolution Fresh\u00ae Organic Super Fruit Greens.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Mango Dragonfruit Lemonade Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Mango Dragonfruit Lemonade Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pineapple Passionfruit Lemonade Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Pineapple Passionfruit Lemonade Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pineapple Passionfruit Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Pineapple Passionfruit Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cold Milk",
+        "img_path": "./images/drinks/cold_drinks/Cold Milk.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Frozen Mango Dragonfruit Lemonade Starbucks Refreshers\u00ae Beverage",
+        "img_path": "./images/drinks/cold_drinks/Frozen Mango Dragonfruit Lemonade Starbucks Refreshers\u00ae Beverage.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Evolution Fresh\u00ae Organic Defense Up\u00ae",
+        "img_path": "./images/drinks/cold_drinks/Evolution Fresh\u00ae Organic Defense Up\u00ae.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Caff\u00e8 Mocha",
+        "img_path": "./images/drinks/cold_coffees/Iced Caff\u00e8 Mocha.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Nitro Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Nitro Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Vanilla Sweet Cream Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Vanilla Sweet Cream Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Flat White",
+        "img_path": "./images/drinks/cold_coffees/Iced Flat White.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Iced Latte",
+        "img_path": "./images/drinks/cold_coffees/Starbucks Reserve\u00ae Iced Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Honey Almondmilk Flat White",
+        "img_path": "./images/drinks/cold_coffees/Iced Honey Almondmilk Flat White.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks\u00ae Cold Brew Coffee with Milk",
+        "img_path": "./images/drinks/cold_coffees/Starbucks\u00ae Cold Brew Coffee with Milk.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cinnamon Caramel Cream Nitro Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Cinnamon Caramel Cream Nitro Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Salted Caramel Cream Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Salted Caramel Cream Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Iced Dark Chocolate Mocha",
+        "img_path": "./images/drinks/cold_coffees/Starbucks Reserve\u00ae Iced Dark Chocolate Mocha.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Vanilla Sweet Cream Nitro Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Vanilla Sweet Cream Nitro Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Toasted Vanilla Oatmilk Shaken Espresso",
+        "img_path": "./images/drinks/cold_coffees/Iced Toasted Vanilla Oatmilk Shaken Espresso.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Cinnamon Dolce Latte",
+        "img_path": "./images/drinks/cold_coffees/Iced Cinnamon Dolce Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Oleato\u2122 Iced Shaken Espresso with Oatmilk and Toffeenut",
+        "img_path": "./images/drinks/cold_coffees/Oleato\u2122 Iced Shaken Espresso with Oatmilk and Toffeenut.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "White Chocolate Macadamia Cream Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/White Chocolate Macadamia Cream Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Oleato Golden Foam\u2122 Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Oleato Golden Foam\u2122 Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Caff\u00e8 Americano",
+        "img_path": "./images/drinks/cold_coffees/Iced Caff\u00e8 Americano.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Caramel Macchiato",
+        "img_path": "./images/drinks/cold_coffees/Iced Caramel Macchiato.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Caff\u00e8 Latte",
+        "img_path": "./images/drinks/cold_coffees/Iced Caff\u00e8 Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks Reserve\u00ae Iced Hazelnut Bianco Latte",
+        "img_path": "./images/drinks/cold_coffees/Starbucks Reserve\u00ae Iced Hazelnut Bianco Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Coffee with Milk",
+        "img_path": "./images/drinks/cold_coffees/Iced Coffee with Milk.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Espresso",
+        "img_path": "./images/drinks/cold_coffees/Iced Espresso.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cinnamon Caramel Cream Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Cinnamon Caramel Cream Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Shaken Espresso",
+        "img_path": "./images/drinks/cold_coffees/Iced Shaken Espresso.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced White Chocolate Mocha",
+        "img_path": "./images/drinks/cold_coffees/Iced White Chocolate Mocha.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Chocolate Cream Cold Brew",
+        "img_path": "./images/drinks/cold_coffees/Chocolate Cream Cold Brew.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Chocolate Almondmilk Shaken Espresso",
+        "img_path": "./images/drinks/cold_coffees/Iced Chocolate Almondmilk Shaken Espresso.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Starbucks\u00ae Cold Brew Coffee",
+        "img_path": "./images/drinks/cold_coffees/Starbucks\u00ae Cold Brew Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Coffee",
+        "img_path": "./images/drinks/cold_coffees/Iced Coffee.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Starbucks\u00ae Blonde Vanilla Latte",
+        "img_path": "./images/drinks/cold_coffees/Iced Starbucks\u00ae Blonde Vanilla Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Brown Sugar Oatmilk Shaken Espresso",
+        "img_path": "./images/drinks/cold_coffees/Iced Brown Sugar Oatmilk Shaken Espresso.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Steamed Milk",
+        "img_path": "./images/drinks/hot_drinks/Steamed Milk.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Hot Chocolate",
+        "img_path": "./images/drinks/hot_drinks/Hot Chocolate.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "White Hot Chocolate",
+        "img_path": "./images/drinks/hot_drinks/White Hot Chocolate.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Caramel Apple Spice",
+        "img_path": "./images/drinks/hot_drinks/Caramel Apple Spice.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Vanilla Cr\u00e8me",
+        "img_path": "./images/drinks/hot_drinks/Vanilla Cr\u00e8me.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Steamed Apple Juice",
+        "img_path": "./images/drinks/hot_drinks/Steamed Apple Juice.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Teavana\u00ae Sparkling Unsweetened Peach Nectarine Green Tea",
+        "img_path": "./images/drinks/iced_teas/Teavana\u00ae Sparkling Unsweetened Peach Nectarine Green Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Green Tea Lemonade",
+        "img_path": "./images/drinks/iced_teas/Iced Green Tea Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Matcha Lemonade",
+        "img_path": "./images/drinks/iced_teas/Iced Matcha Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced London Fog Tea Latte",
+        "img_path": "./images/drinks/iced_teas/Iced London Fog Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Passion Tango\u00ae Tea Lemonade",
+        "img_path": "./images/drinks/iced_teas/Iced Passion Tango\u00ae Tea Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Peach Green Tea",
+        "img_path": "./images/drinks/iced_teas/Iced Peach Green Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Passion Tango\u00ae Tea",
+        "img_path": "./images/drinks/iced_teas/Iced Passion Tango\u00ae Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Teavana\u00ae Mango Black Tea",
+        "img_path": "./images/drinks/iced_teas/Teavana\u00ae Mango Black Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Royal English Breakfast Tea Latte",
+        "img_path": "./images/drinks/iced_teas/Iced Royal English Breakfast Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Chai Tea Latte",
+        "img_path": "./images/drinks/iced_teas/Iced Chai Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Green Tea",
+        "img_path": "./images/drinks/iced_teas/Iced Green Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Black Tea",
+        "img_path": "./images/drinks/iced_teas/Iced Black Tea.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Black Tea Lemonade",
+        "img_path": "./images/drinks/iced_teas/Iced Black Tea Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Peach Green Tea Lemonade",
+        "img_path": "./images/drinks/iced_teas/Iced Peach Green Tea Lemonade.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Iced Matcha Tea Latte",
+        "img_path": "./images/drinks/iced_teas/Iced Matcha Tea Latte.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Small Shopping Bag",
+        "img_path": "./images/merchandise/other/Small Shopping Bag.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pour Over",
+        "img_path": "./images/merchandise/other/Pour Over.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "French Press",
+        "img_path": "./images/merchandise/other/French Press.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Siren Logo Plastic Hot Cup - 16 fl oz",
+        "img_path": "./images/merchandise/tumblers/Siren Logo Plastic Hot Cup - 16 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Copper Pin Stainless-Steel Tumbler - 20 fl oz",
+        "img_path": "./images/merchandise/tumblers/Copper Pin Stainless-Steel Tumbler - 20 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Recycled Plastic Tumbler - 16 fl oz",
+        "img_path": "./images/merchandise/tumblers/Recycled Plastic Tumbler - 16 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Drink-Thru Band Stainless-Steel Tumbler - 16 fl oz",
+        "img_path": "./images/merchandise/tumblers/Drink-Thru Band Stainless-Steel Tumbler - 16 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Recycled Glass Cold Cup - 16 fl oz",
+        "img_path": "./images/merchandise/cold_cups/Recycled Glass Cold Cup - 16 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Dichroic Bling Plastic Cold Cup - 24 fl oz",
+        "img_path": "./images/merchandise/cold_cups/Dichroic Bling Plastic Cold Cup - 24 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Cold To-Go Cup - 24 fl oz",
+        "img_path": "./images/merchandise/cold_cups/Cold To-Go Cup - 24 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Siren Logo Plastic Cold Cup - 24 fl oz",
+        "img_path": "./images/merchandise/cold_cups/Siren Logo Plastic Cold Cup - 24 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Siren Shell Plastic Cold Cup - 24 fl oz",
+        "img_path": "./images/merchandise/cold_cups/Siren Shell Plastic Cold Cup - 24 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Green Soft Touch Stainless-Steel Cold Cup - 24 fl oz",
+        "img_path": "./images/merchandise/cold_cups/Green Soft Touch Stainless-Steel Cold Cup - 24 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Glass Mug - 16 fl oz",
+        "img_path": "./images/merchandise/mugs/Glass Mug - 16 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Recycled Ceramic Mug - 16 fl oz",
+        "img_path": "./images/merchandise/mugs/Recycled Ceramic Mug - 16 fl oz.jpg"
+    },
+    {
+        "type_id": 0,
+        "item_name": "Pleat Desktop Ceramic Mug - 14 fl oz",
+        "img_path": "./images/merchandise/mugs/Pleat Desktop Ceramic Mug - 14 fl oz.jpg"
+    }
+]

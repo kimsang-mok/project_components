@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4;
+  color: #000; }
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  background: none;
+  border: 1px #000 solid;
+  border-radius: 1em;
+  padding: 7px 16px;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none; }
+
+.btn-dark-outline {
+  border-color: #000;
+  color: #000; }
+  .btn-dark-outline:hover {
+    background-color: rgba(0, 0, 0, 0.06); }
+
+.btn-light-outline {
+  border-color: #fff;
+  color: #fff; }
+
+.btn-dark {
+  background-color: #000;
+  color: white; }
+  .btn-dark:hover {
+    background-color: #333; }
+
+.content_header {
+  height: 800px;
+  background-color: #d4e9e2;
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-image: url("../images/star_bg.jpg");
+  background-size: cover;
+  background-position: right bottom; }
+  .content_header div {
+    flex-basis: 50%; }
+    .content_header div .text-content {
+      padding: 32px 40px; }
+      .content_header div .text-content h2 {
+        font-size: 36px;
+        text-transform: uppercase; }
+      .content_header div .text-content p {
+        padding-top: 16px;
+        font-size: 19px; }
+      .content_header div .text-content div {
+        padding-top: 32px; }
+
+.section1 {
+  padding: 64px 0; }
+
+.section-container {
+  text-align: center;
+  padding: 0 24px; }
+  .section-container h3 {
+    font-size: 26px; }
+  .section-container p {
+    padding-top: 16px;
+    font-size: 16px; }
+  .section-container .instruction {
+    padding-top: 48px;
+    margin: 0 5%;
+    display: flex; }
+    .section-container .instruction .instruction-items {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 24px;
+      flex: 1; }
+      .section-container .instruction .instruction-items img {
+        width: 48px;
+        padding-bottom: 24px; }
+      .section-container .instruction .instruction-items div h3 {
+        font-weight: 600;
+        font-size: 19px; }
+      .section-container .instruction .instruction-items div p {
+        line-height: 1.5;
+        font-size: 16px; }
+        .section-container .instruction .instruction-items div p a {
+          color: #006241; }
+      .section-container .instruction .instruction-items:first-child {
+        margin-left: 0; }
+      .section-container .instruction .instruction-items:last-child {
+        margin-right: 0; }
+
+@media (max-width: 768px) {
+  .content_header {
+    flex-direction: column;
+    height: 800px;
+    margin-bottom: 32px; }
+    .content_header .text-content {
+      text-align: center; }
+  .section1 {
+    padding: 32px 0 0; }
+  .section-container h2 {
+    font-size: 24px;
+    font-weight: 600; }
+  .section-container p {
+    font-size: 14px; }
+  .section-container .instruction {
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0; }
+    .section-container .instruction .instruction-items {
+      margin: 0;
+      padding-bottom: 32px;
+      flex-direction: row;
+      text-align: start;
+      justify-self: flex-start; }
+      .section-container .instruction .instruction-items img {
+        width: 64px;
+        padding-right: 16px;
+        padding-bottom: 0;
+        align-self: flex-start; }
+      .section-container .instruction .instruction-items div h3 {
+        font-size: 16px; }
+      .section-container .instruction .instruction-items div p {
+        font-size: 14px; } }
+
+/* Section 3 */
+.section3 .instruction .larger-img img {
+  width: 112px; }
